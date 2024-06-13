@@ -1,0 +1,16 @@
+﻿seo-content-generator/
+│
+├── data/
+│   ├── urls.txt
+│   ├── scraped_articles.txt
+│   └── preprocessed_articles.txt
+│
+├── src/
+│   ├── scrape_articles.py
+│   ├── preprocess.py
+│   ├── fine_tune.py
+│   ├── generate_seo_content.py
+│
+├── requirements.txt
+├── structure.txt
+└── README.md
